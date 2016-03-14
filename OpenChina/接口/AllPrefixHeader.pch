@@ -1,0 +1,19 @@
+//
+//  AllPrefixHeader.pch
+//  OpenChina
+//
+//  Created by Chenghui on 16/3/10.
+//  Copyright © 2016年 Chenghui. All rights reserved.
+//
+
+#ifndef AllPrefixHeader_pch
+#define AllPrefixHeader_pch
+
+#import "UIView+MyExtension.h"
+#import "UIBarButtonItem+MyGExtension.h"
+#import "Address.h"
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+#import "MJRefresh.h"
+
+#endif /* AllPrefixHeader_pch */
